@@ -25,9 +25,9 @@
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px>  </picture> About me
 <picture> <img align = "right" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-- 🏫 I am a 4<sup>rd</sup> year Student at [`Beijing Institue of Technology`](https://english.bit.edu.cn/).
+- 🏫 I'm a 4<sup>rd</sup> year Student at [`Beijing Institue of Technology`](https://english.bit.edu.cn/).
 - 🧑‍💻 I Love Software development, Artificial Intelligence, IoT and Cut-Edge Technologies.
-- 🌱 I’m currently learning Machine learning, Deep learning and Videogames development and new algorithms.
+- 🌱 I'm currently learning Machine learning, Deep learning and Videogames development and new algorithms.
 - 📄 Know about my experiences [Resume link](Resume link)
 - ⚡ Fun fact **I can speak Chinese, English and Spanish*
 - 🤓 Always in a try to `learn new things`.

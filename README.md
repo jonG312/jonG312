@@ -3,7 +3,12 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&center=true&width=435&lines=Hello%2C+I'm+Jonas;Software+Developer;Welcome+to+my+repository" alt="Typing SVG" /></a>
 </p>
+<p align = "center">
+<img src = "gitartwork.svg" alt = "Gitartwork"></p><br>
 
+<p align = "center">
+<img src = "https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula">
+</p>
 
 <p align = "center">
 <img src = "https://github.com/jonG312/jonG312/blob/output/github-contribution-grid-snake.svg" alt = "Snake Game"/>

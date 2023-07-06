@@ -1,8 +1,7 @@
 ![technology-binary-number-programming-wallpaper-1600x480_68](https://user-images.githubusercontent.com/88621342/202923774-e8529a32-8047-4fad-98e0-71b550230481.jpg)
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.comfont=Fira+Code&size=30&pause=1000&color=F7F7F7&center=true&width=435&lines=Hello%2C+I'm+Jonas;Software+Developer;Welcome+to+my+repository" alt="Typing SVG" />
-  </a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C++I'm+Jonas" alt="Typing SVG" /></a>
 </p>
 
 

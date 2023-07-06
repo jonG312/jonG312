@@ -1,5 +1,5 @@
 
-
+<h1 align="center">Hello, I'm Jonas "吉尔"</h1>
 ![technology-binary-number-programming-wallpaper-1600x480_68](https://user-images.githubusercontent.com/88621342/202923774-e8529a32-8047-4fad-98e0-71b550230481.jpg)
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&width=435&lines=Welcome+to+my++repository" alt="Typing SVG" /></a></h1>
 
@@ -9,7 +9,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Joshep</h1>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wwwwwwwwww&label=Profile%20views&color=0e75b6&style=flat" alt="wwwwwwwwww" /> </p>

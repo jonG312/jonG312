@@ -29,7 +29,7 @@
 - 🧑‍💻 I Love Software development, Artificial Intelligence, IoT and Cut-Edge Technologies.
 - 🌱 I'm currently learning Machine learning, Deep learning, computer vision and Videogames development.
 - 📄 Know about my experiences [Resume link](Resume link)
-- ⚡ Fun fact **I can speak Chinese, English and Spanish*
+- ⚡ Fun fact I can speak Spanish, English and Chinese*
 - 🤓 Always in a try to `learn new things`.
 
 <h3 align="left">Connect with me:</h3>

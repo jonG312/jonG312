@@ -23,27 +23,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wwwwwwwwww&label=Profile%20views&color=0e75b6&style=flat" alt="wwwwwwwwww" /> </p>
 
-<p align="left"> <a href="https://twitter.com/JONASGI3426921" target="blank"><img src="https://img.shields.io/twitter/follow/wwwwwwwwww?logo=twitter&style=for-the-badge" alt="wwwwwwwwww" /></a> </p>
-
-- 🔭 I’m currently working on [wwwwwwww](wwwwwwwwwwww)
-
-- 🌱 I’m currently learning **wwwwwwwww**
-
-- 👯 I’m looking to collaborate on [wwwwwwwww](wwwwwwww)
-
-- 🤝 I’m looking for help with [wwwwwwww](wwwwwwww)
-
-- 👨‍💻 All of my projects are available at [wwwwww](wwwwww)
-
-- 📝 I regularly write articles on [wwwwwww](wwwwwww)
-
-- 💬 Ask me about **Unity, Unreal Engine, Python**
-
-- 📫 How to reach me **wwww@gmail.com**
-
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px>  </picture> About me
+<picture> <img align = "right" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+- 🏫 I am a 4<sup>rd</sup> year Student at [`Beijing Institue of Technology`](https://english.bit.edu.cn/).
+- 🧑‍💻 I Love Software development, Artificial Intelligence, IoT and Cut-Edge Technologies.
+- 🌱 I’m currently learning Machine learning, Deep learning and Videogames development and new algorithms.
 - 📄 Know about my experiences [Resume link](Resume link)
-
-- ⚡ Fun fact **I think Iam funny**
+- ⚡ Fun fact **I can speak Chinese, English and Spanish*
+- 🤓 Always in a try to `learn new things`.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

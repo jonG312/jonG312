@@ -1,6 +1,6 @@
 
 
-![technology-binary-number-programming-wallpaper-1600x480_68](![technology-binary-number-programming-wallpaper-1600x480_68](https://graffica.info/wp-content/uploads/Cruz-Diez-01.jpg))
+![Carlos Cruz-Diez](![technology-binary-number-programming-wallpaper-1600x480_68](https://graffica.info/wp-content/uploads/Cruz-Diez-01.jpg))
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&width=435&lines=Welcome+to+my++repository" alt="Typing SVG" /></a></h1>
 
 

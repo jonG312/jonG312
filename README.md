@@ -20,6 +20,10 @@
 - 🤓 Always in a try to `learn new things`.
 
 ![front-page](https://github.com/jonG312/jonG312/blob/main/source/Videogames.png)
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=30&pause=1000&color=4AC26B&center=true&width=435&lines=Take+a+look!" alt="Typing SVG" /></a>
+</p><br>
+Copy To Clipboard
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

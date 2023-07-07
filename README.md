@@ -19,6 +19,8 @@
 - ⚡ Fun fact I can speak Spanish, English and Chinese*
 - 🤓 Always in a try to `learn new things`.
 
+![front-page](https://github.com/jonG312/jonG312/blob/main/source/Videogames.png)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/wwwwwwwwww" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wwwwwwwwww" height="30" width="40" /></a>

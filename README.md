@@ -1,3 +1,5 @@
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=jonG312&label=Profile%20views&color=0e75b6&style=flat" alt="wwwwwwwwww" /> </p>
+
 ![technology-binary-number-programming-wallpaper-1600x480_68](https://github.com/jonG312/jonG312/blob/main/source/portada(0).png)
 
 <p align="center">

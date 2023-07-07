@@ -1,4 +1,4 @@
-![technology-binary-number-programming-wallpaper-1600x480_68](https://user-images.githubusercontent.com/88621342/202923774-e8529a32-8047-4fad-98e0-71b550230481.jpg)
+![technology-binary-number-programming-wallpaper-1600x480_68](https://github.com/jonG312/jonG312/blob/main/source/portada_prototype_(2).png)
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&center=true&width=435&lines=Hello%2C+I'm;Software+Developer;Welcome+to+my+repository" alt="Typing SVG" /></a>

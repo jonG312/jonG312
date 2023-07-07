@@ -1,6 +1,6 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=jonG312&label=Profile%20views&color=0e75b6&style=flat" alt="jonG312" /> </p>
 
-![technology-binary-number-programming-wallpaper-1600x480_68](https://github.com/jonG312/jonG312/blob/main/source/portada(0).png)
+![front-page](https://github.com/jonG312/jonG312/blob/main/front%20page.png)
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=30&pause=1000&color=4AC26B&center=true&width=435&lines=Hello%2C+I'm+Jonas;Software+Developer;Welcome+to+my+repository" alt="Typing SVG" /></a>

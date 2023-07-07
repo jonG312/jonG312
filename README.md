@@ -3,7 +3,7 @@
 ![technology-binary-number-programming-wallpaper-1600x480_68](https://github.com/jonG312/jonG312/blob/main/source/portada(0).png)
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&center=true&width=435&lines=Hello%2C+I'm;Software+Developer;Welcome+to+my+repository" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=30&pause=1000&color=18F71D&center=true&width=435&lines=Hello%2C+I'm+Jonas;Software+Developer;Welcome+to+my+repository" alt="Typing SVG" /></a>
 </p>
 
 <p align = "center">

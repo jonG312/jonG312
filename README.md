@@ -10,15 +10,6 @@
 <img src = "https://github.com/jonG312/jonG312/blob/output/github-contribution-grid-snake.svg" alt = "Snake Game"/>
 </p><br>
 
-
-
-
-
-
-
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=jonG312&label=Profile%20views&color=0e75b6&style=flat" alt="wwwwwwwwww" /> </p>
-
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px>  </picture> About me
 <picture> <img align = "right" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 - 🏫 I'm a 4<sup>rd</sup> year Student at [`Beijing Institue of Technology`](https://english.bit.edu.cn/).

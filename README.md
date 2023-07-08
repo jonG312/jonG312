@@ -33,15 +33,15 @@
 <div align="center" height="500px">
 <img width="30%" height="100%" src= "https://github.com/jonG312/jonG312/blob/main/source/img1.jpg"/>
 <img width="30%" height="100%"  src= "https://github.com/jonG312/jonG312/blob/main/source/img2.jpg"/>
-<img width="30%" height="100%"  src= "https://github.com/jonG312/jonG312/blob/main/source/img3.jpg.jpg"/>
+<img width="30%" height="100%"  src= "https://github.com/jonG312/jonG312/blob/main/source/img3.jpg"/>
 <div align="center" height="500px">
 <img width="30%" height="100%" src= "https://github.com/jonG312/jonG312/blob/main/source/img1.jpg"/>
 <img width="30%" height="100%"  src= "https://github.com/jonG312/jonG312/blob/main/source/img2.jpg"/>
-<img width="30%" height="100%"  src= "https://github.com/jonG312/jonG312/blob/main/source/img3.jpg.jpg"/>
+<img width="30%" height="100%"  src= "https://github.com/jonG312/jonG312/blob/main/source/img3.jpg"/>
 <div align="center" height="500px">
 <img width="30%" height="100%" src= "https://github.com/jonG312/jonG312/blob/main/source/img1.jpg"/>
 <img width="30%" height="100%"  src= "https://github.com/jonG312/jonG312/blob/main/source/img2.jpg"/>
-<img width="30%" height="100%"  src= "https://github.com/jonG312/jonG312/blob/main/source/img3.jpg.jpg"/>
+<img width="30%" height="100%"  src= "https://github.com/jonG312/jonG312/blob/main/source/img3.jpg"/>
 </div>
 
   
@@ -60,11 +60,11 @@
 <div align="center" height="500px">
 <img width="30%" height="100%" src= "https://github.com/jonG312/jonG312/blob/main/source/img1.jpg"/>
 <img width="30%" height="100%"  src= "https://github.com/jonG312/jonG312/blob/main/source/img2.jpg"/>
-<img width="30%" height="100%"  src= "https://github.com/jonG312/jonG312/blob/main/source/img3.jpg.jpg"/>
+<img width="30%" height="100%"  src= "https://github.com/jonG312/jonG312/blob/main/source/img3.jpg"/>
 <div align="center" height="500px">
 <img width="30%" height="100%" src= "https://github.com/jonG312/jonG312/blob/main/source/img1.jpg"/>
 <img width="30%" height="100%"  src= "https://github.com/jonG312/jonG312/blob/main/source/img2.jpg"/>
-<img width="30%" height="100%"  src= "https://github.com/jonG312/jonG312/blob/main/source/img3.jpg.jpg"/>
+<img width="30%" height="100%"  src= "https://github.com/jonG312/jonG312/blob/main/source/img3.jpg"/>
 </div>
 
 ![software-page](https://github.com/jonG312/jonG312/blob/main/source/software-page.png)
@@ -76,15 +76,15 @@
 <div align="center" height="500px">
 <img width="30%" height="100%" src= "https://github.com/jonG312/jonG312/blob/main/source/img1.jpg"/>
 <img width="30%" height="100%"  src= "https://github.com/jonG312/jonG312/blob/main/source/img2.jpg"/>
-<img width="30%" height="100%"  src= "https://github.com/jonG312/jonG312/blob/main/source/img3.jpg.jpg"/>
+<img width="30%" height="100%"  src= "https://github.com/jonG312/jonG312/blob/main/source/img3.jpg"/>
 <div align="center" height="500px">
 <img width="30%" height="100%" src= "https://github.com/jonG312/jonG312/blob/main/source/img1.jpg"/>
 <img width="30%" height="100%"  src= "https://github.com/jonG312/jonG312/blob/main/source/img2.jpg"/>
-<img width="30%" height="100%"  src= "https://github.com/jonG312/jonG312/blob/main/source/img3.jpg.jpg"/>
+<img width="30%" height="100%"  src= "https://github.com/jonG312/jonG312/blob/main/source/img3.jpg"/>
 <div align="center" height="500px">
 <img width="30%" height="100%" src= "https://github.com/jonG312/jonG312/blob/main/source/img1.jpg"/>
 <img width="30%" height="100%"  src= "https://github.com/jonG312/jonG312/blob/main/source/img2.jpg"/>
-<img width="30%" height="100%"  src= "https://github.com/jonG312/jonG312/blob/main/source/img3.jpg.jpg"/>
+<img width="30%" height="100%"  src= "https://github.com/jonG312/jonG312/blob/main/source/img3.jpg"/>
 </div>
 
 ![cybersecurity-page](https://github.com/jonG312/jonG312/blob/main/source/cybersecurity-page.png)
@@ -96,15 +96,15 @@
 <div align="center" height="500px">
 <img width="30%" height="100%" src= "https://github.com/jonG312/jonG312/blob/main/source/img1.jpg"/>
 <img width="30%" height="100%"  src= "https://github.com/jonG312/jonG312/blob/main/source/img2.jpg"/>
-<img width="30%" height="100%"  src= "https://github.com/jonG312/jonG312/blob/main/source/img3.jpg.jpg"/>
+<img width="30%" height="100%"  src= "https://github.com/jonG312/jonG312/blob/main/source/img3.jpg"/>
 <div align="center" height="500px">
 <img width="30%" height="100%" src= "https://github.com/jonG312/jonG312/blob/main/source/img1.jpg"/>
 <img width="30%" height="100%"  src= "https://github.com/jonG312/jonG312/blob/main/source/img2.jpg"/>
-<img width="30%" height="100%"  src= "https://github.com/jonG312/jonG312/blob/main/source/img3.jpg.jpg"/>
+<img width="30%" height="100%"  src= "https://github.com/jonG312/jonG312/blob/main/source/img3.jpg"/>
 <div align="center" height="500px">
 <img width="30%" height="100%" src= "https://github.com/jonG312/jonG312/blob/main/source/img1.jpg"/>
 <img width="30%" height="100%"  src= "https://github.com/jonG312/jonG312/blob/main/source/img2.jpg"/>
-<img width="30%" height="100%"  src= "https://github.com/jonG312/jonG312/blob/main/source/img3.jpg.jpg"/>
+<img width="30%" height="100%"  src= "https://github.com/jonG312/jonG312/blob/main/source/img3.jpg"/>
 </div>
 
 

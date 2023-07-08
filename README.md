@@ -1,4 +1,4 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=jonG312&label=Profile%20views&color=0e75b6&style=flat" alt="jonG312" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=jonG312&label=Profile%20views&color=620f7c&style=flat" alt="jonG312" /> </p>
 
 
 ![front-page](https://github.com/jonG312/jonG312/blob/main/front%20page.png)

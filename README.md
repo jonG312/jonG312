@@ -66,7 +66,7 @@
 	<div class="card">
 				<div class="imgBx">
 					<a href="#">
-					<img src="./image/img1.jpg">
+					<img src="https://github.com/jonG312/jonG312/blob/main/source/img1.jpg">
 					</a>				
 					<h2>Baked Feta Pasta with Shrimp  </h2>
 					<p><br>Creamy, tangy, cheesy, and packed 
@@ -79,7 +79,7 @@
 			<div class="card">
 				<div class="imgBx">
 					<a href="#">
-					<img src="./image/img2.jpg">
+					<img src="https://github.com/jonG312/jonG312/blob/main/source/img2.jpg">
 					</a>
 					<h2>Mango Chicken Rice Paper Rolls  </h2>
 					<p><br>Tender chicken breast, naturally sweet mango,
@@ -91,7 +91,7 @@
 			<div class="card">
 				<div class="imgBx">
 					<a href="#">
-					<img src="./image/img3.jpg">
+					<img src="https://github.com/jonG312/jonG312/blob/main/source/img3.jpg">
 					</a>
 					<h2>Pink Dragon Fruit Smoothie  </h2>
 					<p><br>Dragon fruit aka pitaya, pitahaya or 

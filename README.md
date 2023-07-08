@@ -53,11 +53,19 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=30&pause=1000&color=4AC26B&center=true&width=435&lines=Take+a+look+at+my+projects!" alt="Typing SVG" /></a>
 </p><br>
 
-| Project | Description |
-| ------  | ----------- |
-| [Arito](https://github.com/prakhartiwari0/arito) | Arito is a WebApp built for practicing arithematic skills. It is designed with creativity and to have a joyful experience. It is built primarily for kids who need to practice their mathematical skills, but this can be used by anybody. |
-| [Spammer Bot](https://github.com/prakhartiwari0/SpammerBot) | It is a spammer bot that uses Python's PyAutoGui module. |
-| [Maths Practice App (Python Tkinter)](https://github.com/prakhartiwari0/Maths-Practice-App) | It is a Python GUI App created with Tkinter Library. It is built people who want to practice basic arithmetic. It gives you questions according to the parameters you set. |
+<div align="center" height="500px">
+<img width="30%" height="100%" src= "https://github.com/zairahira/zairahira/blob/main/DSC_0622.jpg"/>
+<img width="30%" height="100%"  src= "https://github.com/zairahira/zairahira/blob/main/DSC_0804%20(1).jpg"/>
+<img width="30%" height="100%"  src= "https://github.com/zairahira/zairahira/blob/main/DSC_0859.jpg"/>
+<div align="center" height="500px">
+<img width="30%" height="100%" src= "https://github.com/zairahira/zairahira/blob/main/DSC_0622.jpg"/>
+<img width="30%" height="100%"  src= "https://github.com/zairahira/zairahira/blob/main/DSC_0804%20(1).jpg"/>
+<img width="30%" height="100%"  src= "https://github.com/zairahira/zairahira/blob/main/DSC_0859.jpg"/>
+<div align="center" height="500px">
+<img width="30%" height="100%" src= "https://github.com/zairahira/zairahira/blob/main/DSC_0622.jpg"/>
+<img width="30%" height="100%"  src= "https://github.com/zairahira/zairahira/blob/main/DSC_0804%20(1).jpg"/>
+<img width="30%" height="100%"  src= "https://github.com/zairahira/zairahira/blob/main/DSC_0859.jpg"/> 
+</div>
 
 ![software-page](https://github.com/jonG312/jonG312/blob/main/source/software-page.png)
 
@@ -65,11 +73,19 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=30&pause=1000&color=4AC26B&center=true&width=435&lines=Take+a+look+at+my+projects!" alt="Typing SVG" /></a>
 </p><br>
 
-| Project | Description |
-| ------  | ----------- |
-| [Arito](https://github.com/prakhartiwari0/arito) | Arito is a WebApp built for practicing arithematic skills. It is designed with creativity and to have a joyful experience. It is built primarily for kids who need to practice their mathematical skills, but this can be used by anybody. |
-| [Spammer Bot](https://github.com/prakhartiwari0/SpammerBot) | It is a spammer bot that uses Python's PyAutoGui module. |
-| [Maths Practice App (Python Tkinter)](https://github.com/prakhartiwari0/Maths-Practice-App) | It is a Python GUI App created with Tkinter Library. It is built people who want to practice basic arithmetic. It gives you questions according to the parameters you set. |
+<div align="center" height="500px">
+<img width="30%" height="100%" src= "https://github.com/zairahira/zairahira/blob/main/DSC_0622.jpg"/>
+<img width="30%" height="100%"  src= "https://github.com/zairahira/zairahira/blob/main/DSC_0804%20(1).jpg"/>
+<img width="30%" height="100%"  src= "https://github.com/zairahira/zairahira/blob/main/DSC_0859.jpg"/>
+<div align="center" height="500px">
+<img width="30%" height="100%" src= "https://github.com/zairahira/zairahira/blob/main/DSC_0622.jpg"/>
+<img width="30%" height="100%"  src= "https://github.com/zairahira/zairahira/blob/main/DSC_0804%20(1).jpg"/>
+<img width="30%" height="100%"  src= "https://github.com/zairahira/zairahira/blob/main/DSC_0859.jpg"/>
+<div align="center" height="500px">
+<img width="30%" height="100%" src= "https://github.com/zairahira/zairahira/blob/main/DSC_0622.jpg"/>
+<img width="30%" height="100%"  src= "https://github.com/zairahira/zairahira/blob/main/DSC_0804%20(1).jpg"/>
+<img width="30%" height="100%"  src= "https://github.com/zairahira/zairahira/blob/main/DSC_0859.jpg"/> 
+</div>
 
 ![cybersecurity-page](https://github.com/jonG312/jonG312/blob/main/source/cybersecurity-page.png)
 
@@ -77,11 +93,19 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=30&pause=1000&color=4AC26B&center=true&width=435&lines=Take+a+look+at+my+projects!" alt="Typing SVG" /></a>
 </p><br>
 
-| Project | Description |
-| ------  | ----------- |
-| [Arito](https://github.com/prakhartiwari0/arito) | Arito is a WebApp built for practicing arithematic skills. It is designed with creativity and to have a joyful experience. It is built primarily for kids who need to practice their mathematical skills, but this can be used by anybody. |
-| [Spammer Bot](https://github.com/prakhartiwari0/SpammerBot) | It is a spammer bot that uses Python's PyAutoGui module. |
-| [Maths Practice App (Python Tkinter)](https://github.com/prakhartiwari0/Maths-Practice-App) | It is a Python GUI App created with Tkinter Library. It is built people who want to practice basic arithmetic. It gives you questions according to the parameters you set. |
+<div align="center" height="500px">
+<img width="30%" height="100%" src= "https://github.com/zairahira/zairahira/blob/main/DSC_0622.jpg"/>
+<img width="30%" height="100%"  src= "https://github.com/zairahira/zairahira/blob/main/DSC_0804%20(1).jpg"/>
+<img width="30%" height="100%"  src= "https://github.com/zairahira/zairahira/blob/main/DSC_0859.jpg"/>
+<div align="center" height="500px">
+<img width="30%" height="100%" src= "https://github.com/zairahira/zairahira/blob/main/DSC_0622.jpg"/>
+<img width="30%" height="100%"  src= "https://github.com/zairahira/zairahira/blob/main/DSC_0804%20(1).jpg"/>
+<img width="30%" height="100%"  src= "https://github.com/zairahira/zairahira/blob/main/DSC_0859.jpg"/>
+<div align="center" height="500px">
+<img width="30%" height="100%" src= "https://github.com/zairahira/zairahira/blob/main/DSC_0622.jpg"/>
+<img width="30%" height="100%"  src= "https://github.com/zairahira/zairahira/blob/main/DSC_0804%20(1).jpg"/>
+<img width="30%" height="100%"  src= "https://github.com/zairahira/zairahira/blob/main/DSC_0859.jpg"/> 
+</div>
 
 
 

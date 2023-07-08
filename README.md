@@ -36,7 +36,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=30&pause=1000&color=4AC26B&center=true&width=435&lines=Take+a+look+at+my+projects!" alt="Typing SVG" /></a>
 </p><br>
 
-
 | Project | Description |
 | ------  | ----------- |
 | [Arito](https://github.com/prakhartiwari0/arito) | Arito is a WebApp built for practicing arithematic skills. It is designed with creativity and to have a joyful experience. It is built primarily for kids who need to practice their mathematical skills, but this can be used by anybody. |

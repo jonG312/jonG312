@@ -11,9 +11,9 @@
 </p><br>
 
 <p align="center">
-<a href="https://twitter.com/wwwwwwwwww" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wwwwwwwwww" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/wwwwwwwwwww" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wwwwwwwwwww" height="30" width="40" /></a>
-<a href="https://fb.com/wwwwwwwwwwww" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wwwwwwwwwwww" height="30" width="40" /></a>
+<a href="https://twitter.com/JONASGI34269219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gildevlink" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkeding" height="30" width="40" /></a>
+<a href="https://fb.com/CONSTRUYOU" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
 <a href="https://instagram.com/wwwwwwwwwwww" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wwwwwwwwwwww" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/wwwwwwwwwwww" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="wwwwwwwwwwww" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/wwwwwwwwwwwwww" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="wwwwwwwwwwwwww" height="30" width="40" /></a>

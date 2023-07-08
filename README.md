@@ -19,7 +19,7 @@
 - ⚡ Fun fact I can speak Spanish, English and Chinese*
 - 🤓 Always in a try to `learn new things`.
 
-![front-page](https://github.com/jonG312/jonG312/blob/main/source/Videogames.png)
+![videogames-page](https://github.com/jonG312/jonG312/blob/main/source/Videogames.png)
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=30&pause=1000&color=4AC26B&center=true&width=435&lines=Take+a+look+at+my+projects!" alt="Typing SVG" /></a>
 </p><br>
@@ -30,6 +30,18 @@
 | [Spammer Bot](https://github.com/prakhartiwari0/SpammerBot) | It is a spammer bot that uses Python's PyAutoGui module. |
 | [Maths Practice App (Python Tkinter)](https://github.com/prakhartiwari0/Maths-Practice-App) | It is a Python GUI App created with Tkinter Library. It is built people who want to practice basic arithmetic. It gives you questions according to the parameters you set. |
 
+![artificial-intelligence]https://github.com/jonG312/jonG312/blob/main/source/ArtificialIntelligence.png
+
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=30&pause=1000&color=4AC26B&center=true&width=435&lines=Take+a+look+at+my+projects!" alt="Typing SVG" /></a>
+</p><br>
+
+
+| Project | Description |
+| ------  | ----------- |
+| [Arito](https://github.com/prakhartiwari0/arito) | Arito is a WebApp built for practicing arithematic skills. It is designed with creativity and to have a joyful experience. It is built primarily for kids who need to practice their mathematical skills, but this can be used by anybody. |
+| [Spammer Bot](https://github.com/prakhartiwari0/SpammerBot) | It is a spammer bot that uses Python's PyAutoGui module. |
+| [Maths Practice App (Python Tkinter)](https://github.com/prakhartiwari0/Maths-Practice-App) | It is a Python GUI App created with Tkinter Library. It is built people who want to practice basic arithmetic. It gives you questions according to the parameters you set. |
 
 
 

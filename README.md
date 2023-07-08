@@ -2,7 +2,7 @@
 
 
 ![front-page](https://github.com/jonG312/jonG312/blob/main/front%20page.png)
-<br></br>
+<br>
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=30&pause=1000&color=4AC26B&center=true&width=435&lines=Hello%2C+I'm+Jonas;Software+Developer;Welcome+to+my+repository" alt="Typing SVG" /></a>
 </p><br>
@@ -19,7 +19,7 @@
 <a href="https://www.leetcode.com/wwwwwwwwwwwwww" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="wwwwwwwwwwwwww" height="30" width="40" /></a>
 <a href="/wwwwwwwwww" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="wwwwwwwwww" height="30" width="40" /></a>
 </p>
-
+<br>
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px>  </picture> About me
 <picture> <img align = "right" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>

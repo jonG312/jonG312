@@ -31,17 +31,17 @@
 </p><br>
 
 <div align="center" height="500px">
-<img width="30%" height="100%" src= "https://github.com/zairahira/zairahira/blob/main/DSC_0622.jpg"/>
-<img width="30%" height="100%"  src= "https://github.com/zairahira/zairahira/blob/main/DSC_0804%20(1).jpg"/>
-<img width="30%" height="100%"  src= "https://github.com/zairahira/zairahira/blob/main/DSC_0859.jpg"/>
+<img width="30%" height="100%" src= "https://github.com/jonG312/jonG312/blob/main/source/img1.jpg"/>
+<img width="30%" height="100%"  src= "https://github.com/jonG312/jonG312/blob/main/source/img2.jpg"/>
+<img width="30%" height="100%"  src= "https://github.com/jonG312/jonG312/blob/main/source/img3.jpg.jpg"/>
 <div align="center" height="500px">
-<img width="30%" height="100%" src= "https://github.com/zairahira/zairahira/blob/main/DSC_0622.jpg"/>
-<img width="30%" height="100%"  src= "https://github.com/zairahira/zairahira/blob/main/DSC_0804%20(1).jpg"/>
-<img width="30%" height="100%"  src= "https://github.com/zairahira/zairahira/blob/main/DSC_0859.jpg"/>
+<img width="30%" height="100%" src= "https://github.com/jonG312/jonG312/blob/main/source/img1.jpg"/>
+<img width="30%" height="100%"  src= "https://github.com/jonG312/jonG312/blob/main/source/img2.jpg"/>
+<img width="30%" height="100%"  src= "https://github.com/jonG312/jonG312/blob/main/source/img3.jpg.jpg"/>
 <div align="center" height="500px">
-<img width="30%" height="100%" src= "https://github.com/zairahira/zairahira/blob/main/DSC_0622.jpg"/>
-<img width="30%" height="100%"  src= "https://github.com/zairahira/zairahira/blob/main/DSC_0804%20(1).jpg"/>
-<img width="30%" height="100%"  src= "https://github.com/zairahira/zairahira/blob/main/DSC_0859.jpg"/> 
+<img width="30%" height="100%" src= "https://github.com/jonG312/jonG312/blob/main/source/img1.jpg"/>
+<img width="30%" height="100%"  src= "https://github.com/jonG312/jonG312/blob/main/source/img2.jpg"/>
+<img width="30%" height="100%"  src= "https://github.com/jonG312/jonG312/blob/main/source/img3.jpg.jpg"/>
 </div>
 
   
@@ -54,17 +54,17 @@
 </p><br>
 
 <div align="center" height="500px">
-<img width="30%" height="100%" src= "https://github.com/zairahira/zairahira/blob/main/DSC_0622.jpg"/>
-<img width="30%" height="100%"  src= "https://github.com/zairahira/zairahira/blob/main/DSC_0804%20(1).jpg"/>
-<img width="30%" height="100%"  src= "https://github.com/zairahira/zairahira/blob/main/DSC_0859.jpg"/>
+<img width="30%" height="100%" src= "https://github.com/jonG312/jonG312/blob/main/source/img1.jpg"/>
+<img width="30%" height="100%"  src= "https://github.com/jonG312/jonG312/blob/main/source/img2.jpg"/>
+<img width="30%" height="100%"  src= "https://github.com/jonG312/jonG312/blob/main/source/img3.jpg.jpg"/>
 <div align="center" height="500px">
-<img width="30%" height="100%" src= "https://github.com/zairahira/zairahira/blob/main/DSC_0622.jpg"/>
-<img width="30%" height="100%"  src= "https://github.com/zairahira/zairahira/blob/main/DSC_0804%20(1).jpg"/>
-<img width="30%" height="100%"  src= "https://github.com/zairahira/zairahira/blob/main/DSC_0859.jpg"/>
+<img width="30%" height="100%" src= "https://github.com/jonG312/jonG312/blob/main/source/img1.jpg"/>
+<img width="30%" height="100%"  src= "https://github.com/jonG312/jonG312/blob/main/source/img2.jpg"/>
+<img width="30%" height="100%"  src= "https://github.com/jonG312/jonG312/blob/main/source/img3.jpg.jpg"/>
 <div align="center" height="500px">
-<img width="30%" height="100%" src= "https://github.com/zairahira/zairahira/blob/main/DSC_0622.jpg"/>
-<img width="30%" height="100%"  src= "https://github.com/zairahira/zairahira/blob/main/DSC_0804%20(1).jpg"/>
-<img width="30%" height="100%"  src= "https://github.com/zairahira/zairahira/blob/main/DSC_0859.jpg"/> 
+<img width="30%" height="100%" src= "https://github.com/jonG312/jonG312/blob/main/source/img1.jpg"/>
+<img width="30%" height="100%"  src= "https://github.com/jonG312/jonG312/blob/main/source/img2.jpg"/>
+<img width="30%" height="100%"  src= "https://github.com/jonG312/jonG312/blob/main/source/img3.jpg.jpg"/>
 </div>
 
 ![software-page](https://github.com/jonG312/jonG312/blob/main/source/software-page.png)
@@ -74,17 +74,17 @@
 </p><br>
 
 <div align="center" height="500px">
-<img width="30%" height="100%" src= "https://github.com/zairahira/zairahira/blob/main/DSC_0622.jpg"/>
-<img width="30%" height="100%"  src= "https://github.com/zairahira/zairahira/blob/main/DSC_0804%20(1).jpg"/>
-<img width="30%" height="100%"  src= "https://github.com/zairahira/zairahira/blob/main/DSC_0859.jpg"/>
+<img width="30%" height="100%" src= "https://github.com/jonG312/jonG312/blob/main/source/img1.jpg"/>
+<img width="30%" height="100%"  src= "https://github.com/jonG312/jonG312/blob/main/source/img2.jpg"/>
+<img width="30%" height="100%"  src= "https://github.com/jonG312/jonG312/blob/main/source/img3.jpg.jpg"/>
 <div align="center" height="500px">
-<img width="30%" height="100%" src= "https://github.com/zairahira/zairahira/blob/main/DSC_0622.jpg"/>
-<img width="30%" height="100%"  src= "https://github.com/zairahira/zairahira/blob/main/DSC_0804%20(1).jpg"/>
-<img width="30%" height="100%"  src= "https://github.com/zairahira/zairahira/blob/main/DSC_0859.jpg"/>
+<img width="30%" height="100%" src= "https://github.com/jonG312/jonG312/blob/main/source/img1.jpg"/>
+<img width="30%" height="100%"  src= "https://github.com/jonG312/jonG312/blob/main/source/img2.jpg"/>
+<img width="30%" height="100%"  src= "https://github.com/jonG312/jonG312/blob/main/source/img3.jpg.jpg"/>
 <div align="center" height="500px">
-<img width="30%" height="100%" src= "https://github.com/zairahira/zairahira/blob/main/DSC_0622.jpg"/>
-<img width="30%" height="100%"  src= "https://github.com/zairahira/zairahira/blob/main/DSC_0804%20(1).jpg"/>
-<img width="30%" height="100%"  src= "https://github.com/zairahira/zairahira/blob/main/DSC_0859.jpg"/> 
+<img width="30%" height="100%" src= "https://github.com/jonG312/jonG312/blob/main/source/img1.jpg"/>
+<img width="30%" height="100%"  src= "https://github.com/jonG312/jonG312/blob/main/source/img2.jpg"/>
+<img width="30%" height="100%"  src= "https://github.com/jonG312/jonG312/blob/main/source/img3.jpg.jpg"/>
 </div>
 
 ![cybersecurity-page](https://github.com/jonG312/jonG312/blob/main/source/cybersecurity-page.png)
@@ -94,17 +94,17 @@
 </p><br>
 
 <div align="center" height="500px">
-<img width="30%" height="100%" src= "https://github.com/zairahira/zairahira/blob/main/DSC_0622.jpg"/>
-<img width="30%" height="100%"  src= "https://github.com/zairahira/zairahira/blob/main/DSC_0804%20(1).jpg"/>
-<img width="30%" height="100%"  src= "https://github.com/zairahira/zairahira/blob/main/DSC_0859.jpg"/>
+<img width="30%" height="100%" src= "https://github.com/jonG312/jonG312/blob/main/source/img1.jpg"/>
+<img width="30%" height="100%"  src= "https://github.com/jonG312/jonG312/blob/main/source/img2.jpg"/>
+<img width="30%" height="100%"  src= "https://github.com/jonG312/jonG312/blob/main/source/img3.jpg.jpg"/>
 <div align="center" height="500px">
-<img width="30%" height="100%" src= "https://github.com/zairahira/zairahira/blob/main/DSC_0622.jpg"/>
-<img width="30%" height="100%"  src= "https://github.com/zairahira/zairahira/blob/main/DSC_0804%20(1).jpg"/>
-<img width="30%" height="100%"  src= "https://github.com/zairahira/zairahira/blob/main/DSC_0859.jpg"/>
+<img width="30%" height="100%" src= "https://github.com/jonG312/jonG312/blob/main/source/img1.jpg"/>
+<img width="30%" height="100%"  src= "https://github.com/jonG312/jonG312/blob/main/source/img2.jpg"/>
+<img width="30%" height="100%"  src= "https://github.com/jonG312/jonG312/blob/main/source/img3.jpg.jpg"/>
 <div align="center" height="500px">
-<img width="30%" height="100%" src= "https://github.com/zairahira/zairahira/blob/main/DSC_0622.jpg"/>
-<img width="30%" height="100%"  src= "https://github.com/zairahira/zairahira/blob/main/DSC_0804%20(1).jpg"/>
-<img width="30%" height="100%"  src= "https://github.com/zairahira/zairahira/blob/main/DSC_0859.jpg"/> 
+<img width="30%" height="100%" src= "https://github.com/jonG312/jonG312/blob/main/source/img1.jpg"/>
+<img width="30%" height="100%"  src= "https://github.com/jonG312/jonG312/blob/main/source/img2.jpg"/>
+<img width="30%" height="100%"  src= "https://github.com/jonG312/jonG312/blob/main/source/img3.jpg.jpg"/>
 </div>
 
 

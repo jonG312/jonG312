@@ -60,6 +60,86 @@
 | [Spammer Bot](https://github.com/prakhartiwari0/SpammerBot) | It is a spammer bot that uses Python's PyAutoGui module. |
 | [Maths Practice App (Python Tkinter)](https://github.com/prakhartiwari0/Maths-Practice-App) | It is a Python GUI App created with Tkinter Library. It is built people who want to practice basic arithmetic. It gives you questions according to the parameters you set. |
 
+
+
+<div class="container">			
+	<div class="card">
+				<div class="imgBx">
+					<a href="#">
+					<img src="./image/img1.jpg">
+					</a>				
+					<h2>Baked Feta Pasta with Shrimp  </h2>
+					<p><br>Creamy, tangy, cheesy, and packed 
+					with extra herbs and perfectly cooked shrimp, 
+					this version of baked feta pasta is truly next 
+					level and totally worth the hype. 
+					</p>					
+				</div>
+			</div>		
+			<div class="card">
+				<div class="imgBx">
+					<a href="#">
+					<img src="./image/img2.jpg">
+					</a>
+					<h2>Mango Chicken Rice Paper Rolls  </h2>
+					<p><br>Tender chicken breast, naturally sweet mango,
+					crunchy carrots and romaine, thin vermicelli, fresh
+					cilantro wrapped in a rice paper roll. 
+					</p>					
+				</div>	
+			</div>				
+			<div class="card">
+				<div class="imgBx">
+					<a href="#">
+					<img src="./image/img3.jpg">
+					</a>
+					<h2>Pink Dragon Fruit Smoothie  </h2>
+					<p><br>Dragon fruit aka pitaya, pitahaya or 
+					strawberry pear, is high in nutrients, fiber and 
+					antioxidants. This superfood smoothie is creamy.
+					</p>
+				</div>	
+			</div>				
+		</div>	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![cybersecurity-page](https://github.com/jonG312/jonG312/blob/main/source/cybersecurity-page.png)
 
 <p align="center">

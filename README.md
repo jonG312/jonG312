@@ -30,6 +30,8 @@
 - ⚡ Fun fact I can speak Spanish, English and Chinese*
 - 🤓 Always in a try to `learn new things`.
 
+![content-page](https://github.com/jonG312/jonG312/blob/main/source/presentation-page.png)
+
 ![content-page](https://github.com/jonG312/jonG312/blob/main/source/contents-page.png)
 
 ![videogames-page](https://github.com/jonG312/jonG312/blob/main/Videogames.png)

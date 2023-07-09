@@ -31,10 +31,11 @@
 </p><br>
 
 <div align="center" height="500px">
-<img width="30%" height="100%"  src= "https://github.com/jonG312/jonG312/blob/main/source/img2.jpg"/>
-<img width="30%" height="100%"  src= "https://github.com/jonG312/jonG312/blob/main/source/img2.jpg"/>
-<img width="30%" height="100%"  src= "https://github.com/jonG312/jonG312/blob/main/source/img2.jpg"/>
+<img width="30%" height="100%" alt="Planeta Marte  src= "https://github.com/jonG312/jonG312/blob/main/source/img2.jpg" "/>
+<img width="30%" height="100%" alt="Planeta Marte  src= "https://github.com/jonG312/jonG312/blob/main/source/img2.jpg"/>
+<img width="30%" height="100%" alt="Planeta Marte  src= "https://github.com/jonG312/jonG312/blob/main/source/img2.jpg"/>
 </div>
+
 
 ![artificial-intelligence](https://github.com/jonG312/jonG312/blob/main/source/ArtificialIntelligence.png)
 

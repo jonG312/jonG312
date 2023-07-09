@@ -30,14 +30,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=30&pause=1000&color=4AC26B&center=true&width=435&lines=Take+a+look+at+my+projects!" alt="Typing SVG" /></a>
 </p><br>
 
-<div align="center" height="500px">
-<img width="30%" height="100%"  src= "https://github.com/jonG312/jonG312/blob/main/source/images/under-construction.png"  alt="Planeta Marte"
-     title="Exposición de un T-Rex en el museo de la Universidad de Manchester."/>
-<img width="30%" height="100%" src= "https://github.com/jonG312/jonG312/blob/main/source/images/under-construction.png"  alt="Planeta Marte"
-     title="Exposición de un T-Rex en el museo de la Universidad de Manchester."/>
-<img width="30%" height="100%"  src= "https://github.com/jonG312/jonG312/blob/main/source/images/under-construction.png" alt="Planeta Marte"
-     title="Exposición de un T-Rex en el museo de la Universidad de Manchester."/>
-</div>
 <br></br>
 
 ![artificial-intelligence](https://github.com/jonG312/jonG312/blob/main/source/ArtificialIntelligence.png)
@@ -63,29 +55,12 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=30&pause=1000&color=4AC26B&center=true&width=435&lines=Take+a+look+at+my+projects!" alt="Typing SVG" /></a>
 </p><br>
 
-<div align="center" height="500px">
-<img width="30%" height="100%"  src= "https://github.com/jonG312/jonG312/blob/main/source/images/under-construction.png"
-      title="Exposición de un T-Rex en el museo de la Universidad de Manchester."/>
-<img width="30%" height="100%"  src= "https://github.com/jonG312/jonG312/blob/main/source/images/under-construction.png"
-      title="Exposición de un T-Rex en el museo de la Universidad de Manchester."/>
-<img width="30%" height="100%"  src= "https://github.com/jonG312/jonG312/blob/main/source/images/under-construction.png"
-      title="Exposición de un T-Rex en el museo de la Universidad de Manchester."/>
-<div align="center" height="500px">
 
 ![cybersecurity-page](https://github.com/jonG312/jonG312/blob/main/source/cybersecurity-page.png)
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=30&pause=1000&color=4AC26B&center=true&width=435&lines=Take+a+look+at+my+projects!" alt="Typing SVG" /></a>
 </p><br>
-
-<div align="center" height="500px">
-<img width="30%" height="100%"  src= "https://github.com/jonG312/jonG312/blob/main/source/images/under-construction.png"
-      title="Exposición de un T-Rex en el museo de la Universidad de Manchester."/>
-<img width="30%" height="100%"  src= "https://github.com/jonG312/jonG312/blob/main/source/images/under-construction.png"
-      title="Exposición de un T-Rex en el museo de la Universidad de Manchester."/>
-<img width="30%" height="100%"  src= "https://github.com/jonG312/jonG312/blob/main/source/images/under-construction.png"
-      title="Exposición de un T-Rex en el museo de la Universidad de Manchester."/>
-<div align="center" height="500px">
 
 ![language-and-tool-page](https://github.com/jonG312/jonG312/blob/main/source/language-and-tools.png)
 

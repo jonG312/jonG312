@@ -31,9 +31,12 @@
 </p><br>
 
 <div align="center" height="500px">
-<img width="30%" height="100%" alt="Planeta Marte  src= "https://github.com/jonG312/jonG312/blob/main/source/img2.jpg" "/>
-<img width="30%" height="100%" alt="Planeta Marte  src= "https://github.com/jonG312/jonG312/blob/main/source/img2.jpg"/>
-<img width="30%" height="100%" alt="Planeta Marte  src= "https://github.com/jonG312/jonG312/blob/main/source/img2.jpg"/>
+<img width="30%" height="100%"  src= "https://github.com/jonG312/jonG312/blob/main/source/img2.jpg"  alt="Planeta Marte"
+     title="Exposición de un T-Rex en el museo de la Universidad de Manchester."/>
+<img width="30%" height="100%" src= "https://github.com/jonG312/jonG312/blob/main/source/img2.jpg"  alt="Planeta Marte"
+     title="Exposición de un T-Rex en el museo de la Universidad de Manchester."/>
+<img width="30%" height="100%"  src= "https://github.com/jonG312/jonG312/blob/main/source/img2.jpg" alt="Planeta Marte"
+     title="Exposición de un T-Rex en el museo de la Universidad de Manchester."/>
 </div>
 
 

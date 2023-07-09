@@ -47,14 +47,14 @@
 </p><br>
 
 <div align="center" height="500px">
-<img width="30%" height="100%"  src= "https://github.com/jonG312/jonG312/blob/main/source/images/Langchain.jpg"
-      title="Exposición de un T-Rex en el museo de la Universidad de Manchester."/>
-<img width="30%" height="100%"  src= "https://github.com/jonG312/jonG312/blob/main/source/images/chain-of-thouht.jpg"
-      title="Exposición de un T-Rex en el museo de la Universidad de Manchester."/>
-<img width="30%" height="100%"  src= "https://github.com/jonG312/jonG312/blob/main/source/images/orca-model.jpg"
-      title="Exposición de un T-Rex en el museo de la Universidad de Manchester."/>
-<img width="30%" height="100%"  src= "https://github.com/jonG312/jonG312/blob/main/source/images/prompt-engineering-techniques.jpg"
-      title="Exposición de un T-Rex en el museo de la Universidad de Manchester."/>
+<a href="https://github.com/jonG312/LangChain_framework" target="_blank" rel="noreferrer"><img width="30%" height="100%"  src= "https://github.com/jonG312/jonG312/blob/main/source/images/Langchain.jpg"
+      title="LangChain is a framework designed to simplify the creation of applications using large language models (LLMs)."/>
+<a href="https://github.com/jonG312/chain_of_though_prompt" target="_blank" rel="noreferrer"><img width="30%" height="100%"  src= "https://github.com/jonG312/jonG312/blob/main/source/images/chain-of-thouht.jpg"
+      title="Chain of Thought Prompting is a novel method developed by researchers at Google to enhance the reasoning capabilities of large language models."/>
+<a href="https://github.com/jonG312/Orca-Model" target="_blank" rel="noreferrer"><img width="30%" height="100%"  src= "https://github.com/jonG312/jonG312/blob/main/source/images/orca-model.jpg"
+      title="Orca is a 13-billion parameter model that learns to imitate the reasoning process of LFMs. Orca learns from rich signals from GPT-4 including explanation traces; step-by-step thought processes; and other complex instructions, guided by teacher assistance from ChatGPT."/>
+<a href="https://github.com/jonG312/prompt_engineering_techniques" target="_blank" rel="noreferrer"><img width="30%" height="100%"  src= "https://github.com/jonG312/jonG312/blob/main/source/images/prompt-engineering-techniques.jpg"
+      title="Set of prompt engineering techniques including iterative, summarizing, inferring, transforming, expanding and chatbox."/>
 <div align="center" height="500px">
 
 ![software-page](https://github.com/jonG312/jonG312/blob/main/source/software-page.png)

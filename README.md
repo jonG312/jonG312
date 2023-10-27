@@ -7,7 +7,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=30&pause=1000&color=4AC26B&center=true&width=435&lines=Hello%2C+I'm+Jonas;Software+Developer;Welcome+to+my+repository" alt="Typing SVG" /></a>
 </p><br>
 <p align = "center">
-<img src = "https://github.com/jonG312/jonG312/blob/output/github-contribution-grid-snake.svg" alt = "Snake Game"/>
+![snake animation](https://github.com/<seu jonG312>/<seu jonG312>/blob/output/github-contribution-grid-snake2.svg)
 </p><br>
 
 <p align="center">
